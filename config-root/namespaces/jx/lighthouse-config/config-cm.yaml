@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - oren-sava/jx-minikube
-      target_url: http://lighthouse-jx.192.168.59.107.nip.io/merge/status
+      target_url: http://lighthouse-jx.192.168.59.108.nip.io/merge/status
 kind: ConfigMap
 metadata:
   creationTimestamp: null
